@@ -1,0 +1,15 @@
+/* Simple styles for the start page */
+body {
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+  line-height: 1.6;
+  margin: 0;
+  padding: 2rem;
+  background: #f7f9fc;
+  color: #111;
+}
+header h1 { margin: 0 0 .5rem 0; }
+nav { margin-bottom: 1rem; }
+nav a { color: #0366d6; text-decoration: none; }
+main { background: white; padding: 1.5rem; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.06); }
+footer { margin-top: 1.5rem; color: #666; font-size: .9rem; }
+code { background: #f1f5f9; padding: .125rem .25rem; border-radius: 3px; }
